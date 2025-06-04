@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/codehunger-team/twilio-api-integration-laravel/actions">
-        <img src="https://github.com/codehunger-team/twilio-api-integration-laravel/workflows/tests/badge.svg" alt="Build Status">
+    <a href="https://github.com/laravel/framework/actions">
+        <img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status">
     </a>
     <a href="https://packagist.org/packages/twilio/sdk">
         <img src="https://img.shields.io/packagist/dt/twilio/sdk" alt="Total Downloads">
